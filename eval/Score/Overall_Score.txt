@@ -1,0 +1,6 @@
+FT:   accuracy:  90.05%; precision:  67.05%; recall:  56.09%; FB1:  61.08
+SM:   accuracy:  92.46%; precision:  73.28%; recall:  68.43%; FB1:  70.77
+WA:   accuracy:  90.07%; precision:  71.95%; recall:  73.14%; FB1:  72.54
+macro-F1:    accuracy:  90.86%; precision:  70.76%; recall:  65.89%; FB1:  68.13
+
+
