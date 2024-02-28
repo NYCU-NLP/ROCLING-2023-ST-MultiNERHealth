@@ -218,11 +218,11 @@ In the training set, sentences used for the FT and SM genres may or may not cont
 We hope the data sets collected and annotated for this shared task can facilitate and expedite future development of Chinese NER in the healthcare domain. Therefore, the gold standard test set and evaluation scripts are made publicly available in GitHub repositories as follows: 
 
 * Chinese HealthNER Corpus (train, for FT/SM genre)  
-<a href="https://github.com/NCUEE-NLPLab/Chinese-HealthNER-Corpus" target="_blank">https://github.com/NCUEE-NLPLab/Chinese-HealthNER-Corpus</a>
+<a href="https://github.com/NYCU-NLPLab/Chinese-HealthNER-Corpus" target="_blank">https://github.com/NYCU-NLPLab/Chinese-HealthNER-Corpus</a>
 * ROCLING-2022 Shared Task (train, for WA genre)  
-<a href="https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER" target="_blank">https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER</a>
+<a href="https://github.com/NYCU-NLPLab/ROCLING-2022-ST-CHNER" target="_blank">https://github.com/NYCU-NLPLab/ROCLING-2022-ST-CHNER</a>
 * ROCLING-2023 Shared Task (test, this repository)  
-<a href="https://github.com/NCUEE-NLPLab/ROCLING-2023-ST-MultiNERHealth" target="_blank">https://github.com/NCUEE-NLPLab/ROCLING-2023-ST-MultiNERHealth</a> 
+<a href="https://github.com/NYCU-NLPLab/ROCLING-2023-ST-MultiNERHealth" target="_blank">https://github.com/NYCU-NLPLab/ROCLING-2023-ST-MultiNERHealth</a> 
 
 
 # Evaluation
